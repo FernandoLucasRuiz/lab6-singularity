@@ -20,3 +20,4 @@ singularity exec /nas/hdd-0/singularity_images/blast_2.9.0--pl526h3066fca_4.sif 
 
     # Realizar la alineación usando blastp
     blastp -query P04156.fasta -db zebrafish.1.protein.faa -out results-blast.txt
+#
